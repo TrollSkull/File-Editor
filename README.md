@@ -4,7 +4,7 @@ With this file made in Python you can edit, create and analyze files, with an ea
 - Made in Python 3
 
 Version 1.2
-## :Instalation
+## Instalation
 	$ pkg install -y git
 
 	$ pkg install -y python
