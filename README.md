@@ -3,7 +3,8 @@ With this file made in Python you can edit, create and analyze files, with an ea
 - Edit, create and analyze files
 - Made in Python 3
 
-## Instalation
+Version 1.2
+## :Instalation
 	$ pkg install -y git
 
 	$ pkg install -y python
