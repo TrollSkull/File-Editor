@@ -1,6 +1,6 @@
 # File Editor
 With this file made in Python you can edit, create and analyze files, with an easy to understand and use interface
-- Translate to Morse and vice versa
+- Edit, create and analyze files
 - Made in Python 3
 
 ## Instalation
@@ -10,11 +10,11 @@ With this file made in Python you can edit, create and analyze files, with an ea
 
 	$ pkg install -y python3
 
-	$ git clone https://github.com/TrollSkull/Morse-Translator
+	$ git clone https://github.com/TrollSkull/File-Editor
 
-	$ cd Morse-Translator
+	$ cd File-Editor
 
-	$ python3 translator.py
+	$ python3 file-editor.py
 
 ## Screenshots
 
