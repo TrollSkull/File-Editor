@@ -9,13 +9,11 @@ Version 1.2
 
 	$ pkg install -y python
 
-	$ pkg install -y python3
-
 	$ git clone https://github.com/TrollSkull/File-Editor
 
 	$ cd File-Editor
 
-	$ python3 file-editor.py
+	$ python file-editor.py
 
 ## Screenshots
 
