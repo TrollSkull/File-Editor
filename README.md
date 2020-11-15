@@ -21,5 +21,7 @@ Version 1.2
 
 ![PicsArt_09-26-03 34 38](https://user-images.githubusercontent.com/64570084/94347827-034f4180-000e-11eb-9df8-d46c0364c997.jpg)
 
+------------------------------------------------------------------------
+
 ## Contact me
 trollskull.contact@gmail.com
