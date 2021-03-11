@@ -99,7 +99,7 @@ Bug fixes
 		print(chr(27)+"[1;30m"+"[INFO] Type the file to edit or you can type\nthe name of a non-existent file to create it\n")
 		edit = input(chr(27)+"[1;0;37m"+"File/Editor "+chr(27)+"[1;33m"+">>"+chr(27)+"[1;37m"+" ")
 		if edit == "file-editor.py":
-			print(chr(27)+"[1;30m"+"\n[INFO] No se puede editar este archivo\n")
+			print(chr(27)+"[1;30m"+"\n[INFO] Can't edit this file\n")
 		else:
 			try:
 				print(chr(27)+"[1;30m"+"\n[INFO] Type the new content\n")
@@ -111,11 +111,11 @@ Bug fixes
 					print("")
 	elif ter == "ls":
 		if sys.platform == "win32":
-			print(chr(27)+"[1;30m"+"\n[INFO] Archivos cercanos\n"+chr(27)+"[1;33m")
+			print(chr(27)+"[1;30m"+"\n[INFO] Nearby files\n"+chr(27)+"[1;33m")
 			os.system("dir /w")
 			print("")
 		else:
-			print(chr(27)+"[1;30m"+"\n[INFO] Archivos cercanos\n"+chr(27)+"[1;33m")
+			print(chr(27)+"[1;30m"+"\n[INFO] Nearby files\n"+chr(27)+"[1;33m")
 			os.system("ls")
 			print("")
 	else:
