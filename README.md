@@ -10,11 +10,11 @@ Version 1.2
 
 	$ pkg install -y python
 
-	$ git clone https://github.com/TrollSkull/File-Editor
+	$ git clone https://github.com/TrollSkull/FileEditor
 
-	$ cd File-Editor
+	$ cd FileEditor
 
-	$ python file-editor.py
+	$ python editor.py
 
 ## Screenshots
 
