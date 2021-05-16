@@ -84,7 +84,7 @@ Bug fixes
 			os.system("clear")
 			ini()
 	elif ter == "analyzer":
-			print(chr(27)+"[1;34m"+"\n["+chr(27)+"[1;32m"+"✓"+chr(27)+"[1;34m"+"]"+chr(27)+"[1;37m"+" Analyzer activated\n")
+			print(chr(27)+"[1;34m"+"\n["+chr(27)+"[1;32m"+"v"+chr(27)+"[1;34m"+"]"+chr(27)+"[1;37m"+" Analyzer activated\n")
 			print(chr(27)+"[1;30m"+"[INFO] Type the file to view\n")
 			ana = input(chr(27)+"[1;0;37m"+"File/Analyzer "+chr(27)+"[1;33m"+">>"+chr(27)+"[1;37m"+" ")
 			try:
@@ -95,7 +95,7 @@ Bug fixes
 			print(chr(27)+"[1;30m"+text)
 			text = ""
 	elif ter == "editor":
-		print(chr(27)+"[1;34m"+"\n["+chr(27)+"[1;32m"+"✓"+chr(27)+"[1;34m"+"]"+chr(27)+"[1;37m"+" Editor activated\n")
+		print(chr(27)+"[1;34m"+"\n["+chr(27)+"[1;32m"+"v"+chr(27)+"[1;34m"+"]"+chr(27)+"[1;37m"+" Editor activated\n")
 		print(chr(27)+"[1;30m"+"[INFO] Type the file to edit or you can type\nthe name of a non-existent file to create it\n")
 		edit = input(chr(27)+"[1;0;37m"+"File/Editor "+chr(27)+"[1;33m"+">>"+chr(27)+"[1;37m"+" ")
 		if edit == "file-editor.py":
