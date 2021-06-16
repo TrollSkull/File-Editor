@@ -1,5 +1,5 @@
 # File Editor
-With this file made in Python you can edit, create and analyze files, with an easy to understand and use interface
+With this tool made in Python you can edit, create and analyze files, with an easy to understand and use interface
 - Edit, create and analyze files
 - Made in Python 3
 
